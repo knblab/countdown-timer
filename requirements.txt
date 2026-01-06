@@ -1,0 +1,5 @@
+# No external dependencies required for the app itself
+# Tkinter comes bundled with Python on Windows
+
+# For building the EXE:
+pyinstaller>=5.0.0
